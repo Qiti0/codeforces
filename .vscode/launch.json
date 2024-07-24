@@ -1,0 +1,133 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "paotiyundongshiyan",
+            "request": "launch",
+            "mainClass": "paotiyundongshiyan",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "排序实验",
+            "request": "launch",
+            "mainClass": "排序实验",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "duoxiancheng2",
+            "request": "launch",
+            "mainClass": "duoxiancheng2",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "duoxiancheng",
+            "request": "launch",
+            "mainClass": "duoxiancheng",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "shiyan4",
+            "request": "launch",
+            "mainClass": "shiyan4",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "calulator",
+            "request": "launch",
+            "mainClass": "calulator",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "xueshengxuehao",
+            "request": "launch",
+            "mainClass": "xueshengxuehao",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "jisuanqi",
+            "request": "launch",
+            "mainClass": "jisuanqi",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "type": "java",
+            "name": "jisuanqi",
+            "request": "launch",
+            "mainClass": "java.shiyan.jisuanqi",
+            "projectName": "vscode c++_6fcdf946"
+        },
+        {
+            "MIMode": "gdb",
+            "args": [],
+            "cwd": "${fileDirname}",
+            "env": {
+                "PATH": "C:\\MinGW\\bin;${env:PATH}"
+            },
+            "environment": [],
+            "externalConsole": true,
+            "internalConsosleOptions": "neverOpen",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "name": "single file debug",
+            "preLaunchTask": "ascii check",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "request": "launch",
+            "stopAtEntry": false,
+            "type": "cppdbg"
+        },
+        {
+            "name": "C/C++: g++.exe 生成和调试活动文件",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "将反汇编风格设置为 Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+        }
+    ],
+    "version": "0.2.0"
+}

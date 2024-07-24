@@ -1,0 +1,1 @@
+{"name":"Local: bs1","url":"d:\\vscode c++\\c++\\bs1.cpp","tests":[{"id":1721017483648,"input":"3\n3\n1 3 7\n3 5 1\n3\n1 3 9\n3 5 1\n1\n4\n7","output":""},{"id":1721019151056,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode c++\\c++\\bs1.cpp","group":"local","local":true}

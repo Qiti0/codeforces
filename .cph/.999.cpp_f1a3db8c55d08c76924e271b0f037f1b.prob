@@ -1,0 +1,1 @@
+{"name":"Local: 999","url":"d:\\vscode c++\\999.cpp","tests":[{"id":1708308329752,"input":"2\n1926 817 2003 627\n1949 1001 1234 4321","output":"1952898"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode c++\\999.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: G_连续自然数和","url":"d:\\vscode c++\\c++\\G_连续自然数和.cpp","tests":[{"id":1701269727101,"input":"416930","output":"50 914\n257 948\n1610 1850\n2324 2496\n20837 20856\n83384 83388\n104231 104234"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode c++\\c++\\G_连续自然数和.cpp","group":"local","local":true}

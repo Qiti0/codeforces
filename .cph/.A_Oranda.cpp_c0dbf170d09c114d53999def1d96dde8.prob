@@ -1,0 +1,1 @@
+{"name":"Local: A_Oranda","url":"d:\\vscode c++\\A_Oranda.cpp","tests":[{"id":1706514598252,"input":"5 3\n3 3 3 1 2","output":"4"},{"id":1706515357265,"input":"3 2\n1 1 1","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode c++\\A_Oranda.cpp","group":"local","local":true}
