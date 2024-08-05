@@ -698,6 +698,7 @@ void add(int u,int v,int w)//添加边
 ```
 
 #### vecoter实现图的存储
+
 ```c++
 vecotr<int> G[N];//邻接表,下标与该点存储的值构成一条边
     for(int i=0;i<m;i++)
